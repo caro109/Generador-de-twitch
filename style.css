@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  color: #fff;
+  position: relative;
+  padding-top: 1%;
+  left: 4%;
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+  background: #031160;
+  display: flex;
+  height: 6rem;
+}
+
+#profile{
+  position: relative;
+  margin: 10px;
+  left: 70%;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 40px;
+  background: #fff;
+}
+
+textarea{
+  width: 70%;
+  height: 8rem;
+  position: relative;
+  left: 15%;
+}
+
+main{
+  position: relative;
+  width: 50%;
+  height: 25rem;
+  margin: 20px;
+  display: flex;
+  left: 25%;
+  border-radius: 3rem;
+  flex-direction: column;
+  background: #032a3f;
+}
+
+label{
+  margin-top: 2rem;
+  position: relative;
+  text-align: center;
+  font-size: 1.5em;
+  color: #fff;
+}
+
+input{
+  position: relative;
+  left: 35%;
+  width: 30%;
+  height: 10%;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+#counter{
+  color: #fff;
+  text-align: center;
+}
+
+#txtname{
+  color: #fff;
+  position: relative;
+  left: 60%;
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+#profile{
+  text-align: center;
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container2{
+  position: relative;
+  display: flex;
+  width: 10%;
+  height: 10%;
+  left: 40%;
+  border-radius: 20px;
+  margin-top: 40px;
+  font-size: 1rem;
+}
+
+#Result_Comment{
+  position: relative;
+  left: -13%;
+  text-align: center;
+  top: 100px;
+  font-size: 1.5rem;
+}
+
+/*https://blog.nubecolectiva.com/capitalizando-strings-en-javascript/
